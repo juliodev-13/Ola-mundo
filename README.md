@@ -1,4 +1,3 @@
 # Olá mundo!
- Primeiro repositório versionato
- Criado durante aula ao vivo.
- Linha feita direto no Github
+ Primeiro repositório criado durante aula ao vivo.
+ Linha adicionada direto no site!
